@@ -292,17 +292,17 @@ nav ul li a:hover {
 }
 
 #project1 {
-  background-image: url(./Images/projects/Project1.png);
+  background-image: url(./Images/projects/project1.png);
   right: 5%;
 }
 
 #project2 {
-  background-image: url(./Images/projects/Project2.png);
+  background-image: url(./Images/projects/project2.png);
   left: 5%;
 }
 
 #project3 {
-  background-image: url(./Images/projects/Project3.png);
+  background-image: url(./Images/projects/project3.png);
   right: 5%;
 }
 
